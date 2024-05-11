@@ -1,2 +1,2 @@
 # python-challenge
-In this module I utilize Python in order to work with bigger data sets and automate conversions
+In this module I use Python to calculate both profit-loss and poll data from a .csv resource.
